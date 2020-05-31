@@ -6,7 +6,7 @@
                       |                                 |  
                       -----------------------------------
 
-Copyright (C) 2019 David Badiei
+Copyright (C) 2020 David Badiei
 
 System requirements
 =====================
